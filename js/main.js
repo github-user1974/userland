@@ -70,6 +70,7 @@ var files = (function () {
         "about.txt": "-- Empty File --",
         "getting_started.txt": "This is a hard one I know... I often don't know where to start either.",
         "contact.txt": "contact.{{ MY USER NAME GOES HERE }}@gmail.com",
+        "articles.md": "https://user1974.medium.com"
     };
     return {
         getInstance: function (options) {
